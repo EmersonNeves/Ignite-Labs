@@ -7,8 +7,8 @@ import { useCreateSubscriberMutation } from "../graphql/generated";
 
 export function Subscribe() {
   const navigate = useNavigate();
-  const [name, setName] = useState<String>("");
-  const [email, setEmail] = useState<String>("");
+  const [name, setName] = useState<string>("");
+  const [email, setEmail] = useState<string>("");
 
   const [createSubscriber, { loading }] = useCreateSubscriberMutation();
 
