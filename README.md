@@ -2,7 +2,7 @@
 
 <p>
 Projeto desenvolvido durante a segunda edição do Ignite Labs, com objetivo de criar uma plataforma de eventos online.
-A tela inicial permite que seja feita o cadastro e posteriormente se tem acesso a sequência de vídeos do evento.
+A tela inicial permite que seja feita o cadastro e posteriormente se tem acesso a sequência de vídeos do evento, onde também tem os desafios e material complementar.
 </p>
 
 <h4>Tecnologias utilizadas</h4
